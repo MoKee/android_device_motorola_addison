@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_addison.mk
+    $(LOCAL_DIR)/mokee_addison.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_addison-user \
-    lineage_addison-userdebug \
-    lineage_addison-eng
+    mokee_addison-user \
+    mokee_addison-userdebug \
+    mokee_addison-eng
